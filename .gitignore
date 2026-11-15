@@ -1,23 +1,24 @@
-# Python cache
+
+# Python gyorsítótár
 __pycache__/
 *.py[cod]
 
-# Virtual environment
+# Virtuális környezet
 .venv/
 venv/
 
-# IDE
+# Fejlesztőkörnyezetek
 .vscode/
 .idea/
 
-# Temporary files
+# Ideiglenes fájlok
 *.log
 *.tmp
 
-# Generated images
+# Generált képek
 output/
 results/
 
-# OS files
+# Operációs rendszer fájljai
 .DS_Store
 Thumbs.db
